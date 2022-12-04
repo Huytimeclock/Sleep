@@ -1,0 +1,26 @@
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.exe.config
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.exe
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.pdb
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.AssemblyReference.cache
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.SuggestedBindingRedirects.cache
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.Form1.resources
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.Properties.Resources.resources
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.GenerateResource.cache
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.CoreCompileInputs.cache
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.exe
+E:\code Huy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.pdb
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.exe.config
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.exe
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.pdb
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.SuggestedBindingRedirects.cache
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.Form1.resources
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.Properties.Resources.resources
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.GenerateResource.cache
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.CoreCompileInputs.cache
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.exe
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.pdb
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.exe.manifest
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\bin\Debug\doandactahinhthuc.application
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.exe.manifest
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.application
+E:\codeHuy\doandactahinhthuc\doandactahinhthuc\obj\Debug\doandactahinhthuc.csproj.AssemblyReference.cache
